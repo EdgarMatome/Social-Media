@@ -1,0 +1,8 @@
+.form-wrapper{
+    background-color: #eee;
+    padding: 20px;
+}
+
+.chosen-container, .chosen-container-multi{
+    width: 100% !important;
+}
